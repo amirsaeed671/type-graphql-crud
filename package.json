@@ -1,5 +1,5 @@
 {
-  "name": "reddit-server",
+  "name": "type-graphql-crud",
   "version": "1.0.0",
   "main": "index.ts",
   "license": "MIT",
