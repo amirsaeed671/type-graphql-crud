@@ -1,1 +1,1 @@
-# reddit-server
+# type-graphql-crud
