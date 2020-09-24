@@ -9,7 +9,7 @@ export default {
     pattern: /^[\w-]+\d+\.[tj]s$/,
   },
   entities: [Post],
-  dbName: "reddit-server",
+  dbName: "graphql-crud",
   type: "postgresql",
   debug: !__prod__,
 } as Parameters<typeof MikroORM.init>[0];
